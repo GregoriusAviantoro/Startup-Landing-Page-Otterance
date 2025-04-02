@@ -31,8 +31,9 @@ export const HeroSection = () => {
             <div className="mt-10 bg-white/50 backdrop-blur-sm rounded-xl p-5 border border-primary/10 shadow-sm inline-block">
               <p className="text-gray-700 font-medium">
                 Otterance allows Insurance Brokers in Illinois to share and organize information automatically,
-                improving efficiency and communication between clients, brokers, and insurers. Join the waitlist to be the first to experience the future of
-                insurance data management.
+                improving efficiency and communication between stakeholders. 
+                <br>Join the waitlist to be the first to experience the future of
+                insurance data management.</br>
               </p>
             </div>
             <div className="mt-6">
