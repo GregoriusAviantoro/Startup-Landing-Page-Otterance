@@ -10,7 +10,7 @@ export const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex-shrink-0 flex items-center">
           <div className="flex items-center space-x-2">
-          <img src={blueLogo} alt="Otterance" className="h-16 w-auto" />
+          <img src={blueLogo} alt="Otterance" className="h-10 w-auto" />
           </div>
           <div className="hidden md:flex ml-4 h-4 w-px bg-primary/20"></div>
           <span className="hidden md:block ml-4 text-sm text-gray-600">
