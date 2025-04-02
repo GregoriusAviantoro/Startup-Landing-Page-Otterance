@@ -26,9 +26,7 @@ export const HeroSection = () => {
               <span className="block text-primary">Insurance Data Flow</span>
             </h1>
             <p className="mt-6 text-xl text-gray-600 max-w-3xl font-body">
-              Transform your insurance operations with automated data handling
-              that saves time, eliminates manual errors, and streamlines your
-              entire workflow.
+              Zero Inbox Hassle. Close Deals Faster.
             </p>
             <div className="mt-10 bg-white/50 backdrop-blur-sm rounded-xl p-5 border border-primary/10 shadow-sm inline-block">
               <p className="text-gray-700 font-medium">
