@@ -1,6 +1,6 @@
 import React from 'react';
 // @ts-ignore
-import lightLogo from '../logos/otterance-light.PNG?url';
+import darkLogo from '../logos/otterance-dark.PNG?url';
 
 export const Footer = () => {
   return <footer className="relative bg-light-blue border-t border-primary/10">
@@ -11,7 +11,7 @@ export const Footer = () => {
             <img src={lightLogo} alt="Otterance" className="h-8 w-auto" />
             <span className="text-gray-400">|</span>
             <span className="text-gray-600 text-sm">
-              Streamline your data operations
+              Zero Inbox Hassle. Close Deals Faster.
             </span>
           </div>
           <div className="flex items-center space-x-6">
