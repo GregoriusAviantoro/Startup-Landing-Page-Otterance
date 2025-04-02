@@ -36,10 +36,10 @@ export const HeroSection = () => {
               </p>
             </div>
             <div className="mt-6">
-              <button href="https://forms.gle/SzXDA8EVCtPYVHAVA" target="_blank" className="bg-primary hover:bg-primary/90 text-white px-8 py-3 rounded-lg text-base font-medium transition-colors inline-flex items-center shadow-sm group">
+              <a href="https://forms.gle/SzXDA8EVCtPYVHAVA" target="_blank" className="bg-primary hover:bg-primary/90 text-white px-8 py-3 rounded-lg text-base font-medium transition-colors inline-flex items-center shadow-sm group">
                 Join the Waitlist
                 <ArrowRightIcon className="ml-2 h-5 w-5 transition-transform group-hover:translate-x-1" />
-              </button>
+              </a>
             </div>
           </div>
           <div className="relative">
