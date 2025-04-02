@@ -11,7 +11,7 @@ export const Navbar = () => {
             <img src={darkLogo} alt="Otterance" className="h-16 w-auto mr-2" />
             <div className="hidden md:flex ml-4 h-4 w-px bg-primary/20"></div>
             <span className="hidden md:block ml-4 text-sm text-gray-600">
-              Streamlining Insurance Data
+              Zero Inbox Hassle. Close Deals Faster.
             </span>
           </div>
           <div>
